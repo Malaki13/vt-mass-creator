@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets / comptes générés
+.env
+accounts.jsonl
+accounts_all.jsonl
+accounts_1k.jsonl
+accounts.csv
+
+# Ressources locales
+logos/
+avatars/
+proxies.txt
+
+# Logs
+*.log

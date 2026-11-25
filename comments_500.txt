@@ -1,0 +1,501 @@
+# 500 commentaires uniques et variés - un par ligne
+Clean here.
+Looks fine.
+No issues on my side.
+Harmless for me.
+Nothing suspicious.
+Runs fine.
+All good.
+No problems.
+Seems clean.
+Fine in my VM.
+Clean on Win11.
+Clean on Win10.
+No alerts here.
+Nothing weird.
+Works normally.
+Looks harmless.
+No crash.
+No persistence.
+No dropped files.
+No network calls.
+Quiet process.
+Normal behaviour.
+Looks like a FP.
+Probably harmless.
+Clean in my sandbox.
+No suspicious activity.
+Nothing to report.
+Tested, clean.
+Quick test, clean.
+No issue at all.
+Clean from my side.
+No findings.
+Nothing abnormal.
+Looks legitimate.
+Behaves normally.
+No red flags.
+All normal.
+Runs as expected.
+No visible side effects.
+Fine on first run.
+Fine on second run.
+Clean after reboot.
+Still clean after rescan.
+No change after rescan.
+Single detection, likely FP.
+One engine, likely FP.
+Only one flag, looks like FP.
+Nothing suspicious in my run.
+No suspicious strings noticed.
+Clean in a fresh VM.
+Ran it on a clean Windows 11 VM for 20 minutes, no registry persistence.
+Ran it on a clean Windows 11 VM for a full afternoon, no scheduled task was created.
+Ran it on Windows 11 22H2 for a whole day, no registry persistence.
+Ran it on Windows 11 22H2 for 20 minutes, no suspicious modules were loaded.
+Ran it on a Windows 10 VM for 10 minutes, no registry persistence.
+Ran it on a Windows 11 sandbox for 20 minutes, the UI loaded normally.
+Tried it on Windows 11 23H2 for 20 minutes; no unusual handle was left open.
+Tried it on Windows 10 22H2 for a whole day; no outbound connections.
+Tried it on Windows Server 2022 for a few minutes; no scheduled task was created.
+Tried it on a Windows 11 sandbox for a couple of hours; the window closed cleanly.
+Tried it on a clean Windows 11 VM for a full afternoon; no scheduled task was created.
+Tried it on Windows 10 LTSC 2021 for 20 minutes; no elevated prompt appeared.
+Installed it on a Windows 11 sandbox and used it for a whole day, no unexpected writes outside its folder.
+Installed it on Windows 11 23H2 and used it for a whole day, no unexpected writes outside its folder.
+Installed it on Windows 11 22H2 and used it for an hour, no file was written to Temp.
+Installed it on Windows 11 23H2 and used it for 10 minutes, no log entry looked abnormal.
+Installed it on a clean Windows 11 VM and used it for a whole day, no file was written to Temp.
+Installed it on a Windows 10 VM and used it for half an hour, no suspicious child processes.
+Gave it a spin on a Windows 10 VM for a full afternoon; the app responded normally.
+Gave it a spin on Windows 10 22H2 for half an hour; no elevated prompt appeared.
+Gave it a spin on Windows 10 22H2 for a full afternoon; no dropped files.
+Gave it a spin on Windows 11 24H2 for half an hour; no suspicious child processes.
+Gave it a spin on Windows 11 24H2 for a few minutes; no log entry looked abnormal.
+Gave it a spin on a clean Windows 11 VM for half an hour; no unexpected writes outside its folder.
+Used it for a whole day on a clean Windows 11 VM, CPU usage stayed low.
+Used it for half an hour on Windows Server 2022, the UI loaded normally.
+Used it for a few minutes on a Windows 11 sandbox, no network traffic after startup.
+Used it for a whole day on Windows 11 23H2, no crash dump was generated.
+Used it for a couple of hours on a Windows 10 VM, the window closed cleanly.
+Used it for 20 minutes on Windows 11 23H2, no registry persistence.
+Quick run on Windows 11 22H2: no network traffic after startup.
+Quick run on Windows 11 22H2: memory usage stayed stable.
+Quick run on Windows Server 2022: no scheduled task was created.
+Quick run on Windows 10 22H2: no unusual DNS queries.
+Quick run on Windows 11 24H2: no unexpected writes outside its folder.
+Quick run on Windows Server 2022: the window closed cleanly.
+No dropped files after a quick run on Windows 11 22H2.
+No child processes after a quick run on Windows 11 22H2.
+No startup entries after a quick run on Windows 11 23H2.
+No scheduled tasks after a quick run on Windows 11 22H2.
+No mutexes after a quick run on a Windows 11 sandbox.
+No startup entries after a quick run on a Windows 10 VM.
+Launched it twice on Windows 11 23H2, memory usage stayed stable.
+Launched it twice on a Windows 11 sandbox, no unusual handle was left open.
+Launched it twice on Windows 10 LTSC 2021, no crash dump was generated.
+Launched it twice on Windows 11 22H2, no crash.
+Launched it twice on a Windows 10 VM, no scheduled task was created.
+Launched it twice on a Windows 11 sandbox, the UI loaded normally.
+Tested it for a couple of hours on Windows 11 22H2, no hidden window appeared.
+Tested it for half an hour on Windows 10 22H2, no elevated prompt appeared.
+Tested it for an hour on Windows 11 23H2, no network traffic after startup.
+Tested it for half an hour on Windows 10 22H2, no log entry looked abnormal.
+Tested it for a few minutes on Windows 10 LTSC 2021, no log entry looked abnormal.
+Tested it for 10 minutes on a Windows 10 VM, no unusual DNS queries.
+Works fine on Windows 11 22H2; no dropped files.
+Works fine on Windows 11 22H2; memory usage stayed stable.
+Works fine on Windows 11 22H2; no scheduled task was created.
+Works fine on a Windows 10 VM; no hidden window appeared.
+Works fine on Windows 11 22H2; no network traffic after startup.
+Works fine on a Windows 10 VM; no dropped files.
+No network connections seen on Windows 11 22H2.
+No hidden windows seen on Windows 10 LTSC 2021.
+No mutexes seen on a clean Windows 11 VM.
+No Temp files seen on Windows 11 24H2.
+No startup entries seen on Windows 11 23H2.
+No hidden windows seen on Windows 11 24H2.
+Ran it from a USB stick on Windows 10 LTSC 2021, memory usage stayed stable.
+Ran it from a USB stick on a Windows 10 VM, no outbound connections.
+Ran it from a USB stick on a Windows 10 VM, no file was written to Temp.
+Ran it from a USB stick on Windows 11 22H2, the window closed cleanly.
+Ran it from a USB stick on Windows 10 LTSC 2021, no unusual DNS queries.
+Ran it from a USB stick on Windows 11 24H2, no suspicious modules were loaded.
+Moved it to another folder and ran it on a clean Windows 11 VM, the UI loaded normally.
+Moved it to another folder and ran it on a Windows 11 sandbox, no suspicious modules were loaded.
+Moved it to another folder and ran it on Windows 11 22H2, no suspicious child processes.
+Moved it to another folder and ran it on Windows 10 LTSC 2021, no persistence mechanism was added.
+Moved it to another folder and ran it on Windows 11 23H2, no file was written to Temp.
+Moved it to another folder and ran it on a Windows 11 sandbox, memory usage stayed stable.
+Opened it on a Windows 10 VM for half an hour, the app responded normally.
+Opened it on Windows 10 LTSC 2021 for a full afternoon, no service was installed.
+Opened it on Windows 11 23H2 for half an hour, the app responded normally.
+Opened it on Windows 10 22H2 for a whole day, CPU usage stayed low.
+Opened it on Windows Server 2022 for half an hour, no elevated prompt appeared.
+Opened it on Windows 11 24H2 for an hour, CPU usage stayed low.
+No services after the first launch on a Windows 10 VM.
+No scheduled tasks after the first launch on Windows Server 2022.
+No dropped files after the first launch on a Windows 11 sandbox.
+No elevated prompts after the first launch on a Windows 10 VM.
+No mutexes after the first launch on Windows Server 2022.
+No child processes after the first launch on Windows 11 24H2.
+Second launch on Windows Server 2022 was also clean; no persistence mechanism was added.
+Second launch on Windows 10 22H2 was also clean; no suspicious child processes.
+Second launch on Windows 11 22H2 was also clean; no unusual DNS queries.
+Second launch on a Windows 10 VM was also clean; no log entry looked abnormal.
+Second launch on a clean Windows 11 VM was also clean; no dropped files.
+Second launch on Windows 10 LTSC 2021 was also clean; no persistence mechanism was added.
+Ran it as a normal user on a Windows 10 VM, no persistence mechanism was added.
+Ran it as a normal user on a Windows 11 sandbox, no suspicious modules were loaded.
+Ran it as a normal user on Windows Server 2022, no crash.
+Ran it as a normal user on a Windows 10 VM, no crash dump was generated.
+Ran it as a normal user on Windows 10 LTSC 2021, no file was written to Temp.
+Ran it as a normal user on Windows 11 23H2, no registry persistence.
+Ran it elevated on a Windows 11 sandbox, no hidden window appeared.
+Ran it elevated on Windows 10 LTSC 2021, no network traffic after startup.
+Ran it elevated on Windows 10 22H2, the window closed cleanly.
+Ran it elevated on Windows 11 23H2, the process exited cleanly.
+Ran it elevated on Windows 11 24H2, no unusual handle was left open.
+Used it for half an hour, the UI loaded normally.
+Used it for half an hour, no outbound connections.
+Used it for a full afternoon, no unexpected writes outside its folder.
+Used it for 10 minutes, no unexpected writes outside its folder.
+Used it for a full afternoon, no outbound connections.
+Used it for 20 minutes, no crash dump was generated.
+No hidden windows during an hour on Windows Server 2022.
+No services during a few minutes on Windows 11 23H2.
+No services during a couple of hours on a Windows 11 sandbox.
+No Temp files during a few minutes on Windows Server 2022.
+No startup entries during half an hour on Windows 10 22H2.
+No DNS queries during 10 minutes on Windows 10 LTSC 2021.
+Executed in API Monitor on Windows 11 24H2; no dropped files.
+Executed in Procmon on a Windows 10 VM; no suspicious modules were loaded.
+Executed in Process Explorer on Windows 11 24H2; no persistence mechanism was added.
+Executed in TCPView on a Windows 10 VM; no suspicious child processes.
+Executed in Defender on Windows 11 22H2; no scheduled task was created.
+Executed in Sysmon on a clean Windows 11 VM; no elevated prompt appeared.
+API Monitor on a Windows 11 sandbox showed no suspicious child processes.
+Procmon on Windows 11 24H2 showed no unexpected writes outside its folder.
+Process Explorer on Windows 10 LTSC 2021 showed no hidden window appeared.
+Process Explorer on Windows 11 22H2 showed no unusual DNS queries.
+Defender on a clean Windows 11 VM showed no registry persistence.
+Procmon on Windows 10 22H2 showed no service was installed.
+No child processes observed with Sysmon on Windows 11 22H2.
+No network connections observed with Autoruns on a Windows 11 sandbox.
+No network connections observed with Procmon on Windows 11 23H2.
+No hidden windows observed with Sysmon on Windows 10 LTSC 2021.
+No registry keys observed with Autoruns on Windows 10 LTSC 2021.
+No DNS queries observed with Sysmon on Windows 11 22H2.
+Dynamic run in Autoruns: no scheduled task was created.
+Dynamic run in TCPView: no unusual DNS queries.
+Dynamic run in Sysmon: no registry persistence.
+Dynamic run in Process Monitor: no outbound connections.
+Dynamic run in API Monitor: no network traffic after startup.
+Dynamic run in Procmon: no suspicious child processes.
+Monitored it with Autoruns for 10 minutes on Windows 11 22H2; no file was written to Temp.
+Monitored it with a sandbox for half an hour on Windows 11 23H2; the window closed cleanly.
+Monitored it with Defender for a couple of hours on Windows Server 2022; no unusual DNS queries.
+Monitored it with Procmon for an hour on Windows 11 23H2; no outbound connections.
+Monitored it with Process Monitor for 20 minutes on Windows 10 LTSC 2021; no log entry looked abnormal.
+Monitored it with Procmon for an hour on Windows 10 LTSC 2021; no file was written to Temp.
+Started it under Wireshark on Windows Server 2022, no scheduled task was created.
+Started it under Process Monitor on Windows 10 LTSC 2021, no dropped files.
+Started it under Defender on Windows Server 2022, no suspicious modules were loaded.
+Started it under a sandbox on a clean Windows 11 VM, no unusual handle was left open.
+Started it under Procmon on Windows 10 LTSC 2021, no crash dump was generated.
+Started it under Defender on Windows 10 22H2, no suspicious child processes.
+Captured traffic with Sysmon on a Windows 11 sandbox; no registry persistence.
+Captured traffic with Process Monitor on Windows 11 24H2; no registry persistence.
+Captured traffic with Sysmon on Windows 10 LTSC 2021; no registry persistence.
+Captured traffic with Defender on Windows 10 22H2; no service was installed.
+Captured traffic with TCPView on a Windows 10 VM; no network traffic after startup.
+Captured traffic with Procmon on a Windows 10 VM; memory usage stayed stable.
+Compared first and second run with Defender, no unusual DNS queries.
+Compared first and second run with Procmon, no unusual handle was left open.
+Compared first and second run with Autoruns, no crash.
+Compared first and second run with Process Monitor, CPU usage stayed low.
+Compared first and second run with API Monitor, no service was installed.
+Compared first and second run with Procmon, no dropped files.
+Ran it with Sysmon and checked child processes: no dropped files.
+Ran it with a sandbox and checked DNS queries: no registry persistence.
+Ran it with Defender and checked dropped files: no scheduled task was created.
+Ran it with API Monitor and checked network connections: no crash dump was generated.
+Ran it with Wireshark and checked mutexes: the process exited cleanly.
+Ran it with Process Monitor and checked services: no hidden window appeared.
+Tested in API Monitor on a Windows 11 sandbox; no service was installed.
+Tested in TCPView on Windows 11 22H2; the UI loaded normally.
+Tested in Autoruns on Windows Server 2022; no unusual DNS queries.
+Tested in Sysmon on Windows Server 2022; no service was installed.
+Tested in Process Explorer on a clean Windows 11 VM; the app responded normally.
+Tested in API Monitor on a Windows 10 VM; no unusual DNS queries.
+No startup entries after a full afternoon under Process Monitor.
+No DNS queries after 20 minutes under Wireshark.
+No mutexes after 20 minutes under API Monitor.
+No services after 20 minutes under Procmon.
+No startup entries after a full afternoon under Autoruns.
+No mutexes after half an hour under Process Explorer.
+Checked the process tree with Sysmon on Windows 11 23H2; no registry persistence.
+Checked the process tree with Autoruns on Windows 10 LTSC 2021; no hidden window appeared.
+Checked the process tree with Autoruns on Windows 10 22H2; memory usage stayed stable.
+Checked the process tree with a sandbox on Windows Server 2022; CPU usage stayed low.
+Checked the process tree with API Monitor on Windows 11 22H2; no outbound connections.
+Checked the process tree with a sandbox on Windows 10 22H2; no unusual handle was left open.
+File activity in Procmon was ordinary; no outbound connections.
+File activity in Sysmon was ordinary; no service was installed.
+File activity in Defender was ordinary; no log entry looked abnormal.
+File activity in API Monitor was ordinary; no log entry looked abnormal.
+File activity in a sandbox was ordinary; no file was written to Temp.
+File activity in API Monitor was ordinary; no outbound connections.
+Registry activity in Process Explorer was limited; no network traffic after startup.
+Registry activity in TCPView was limited; no crash dump was generated.
+Registry activity in Process Explorer was limited; the app responded normally.
+Registry activity in Autoruns was limited; no crash dump was generated.
+Registry activity in Process Monitor was limited; no registry persistence.
+Registry activity in Defender was limited; no unusual handle was left open.
+Network activity in TCPView was quiet; no persistence mechanism was added.
+Network activity in Process Monitor was quiet; no dropped files.
+Network activity in Sysmon was quiet; memory usage stayed stable.
+Network activity in Defender was quiet; no crash dump was generated.
+Network activity in Process Explorer was quiet; no crash dump was generated.
+Network activity in Defender was quiet; the UI loaded normally.
+Observed with Process Explorer on a Windows 10 VM for half an hour: no persistence mechanism was added.
+Observed with Wireshark on Windows 10 LTSC 2021 for 10 minutes: no unexpected writes outside its folder.
+Observed with TCPView on a clean Windows 11 VM for a couple of hours: the app responded normally.
+Observed with Defender on Windows 11 22H2 for a few minutes: no unexpected writes outside its folder.
+Observed with Process Monitor on Windows 11 24H2 for 10 minutes: no file was written to Temp.
+Observed with Process Explorer on a clean Windows 11 VM for 20 minutes: no outbound connections.
+Ran it in a clean snapshot with Wireshark; memory usage stayed stable.
+Ran it in a clean snapshot with Sysmon; no crash dump was generated.
+Ran it in a clean snapshot with API Monitor; no suspicious child processes.
+Ran it in a clean snapshot with Procmon; no file was written to Temp.
+Ran it in a clean snapshot with Sysmon; no suspicious modules were loaded.
+Ran it in a clean snapshot with Procmon; no crash.
+Ran it with a standard user and with admin rights; the process exited cleanly.
+Ran it with a standard user and with admin rights; no unusual handle was left open.
+Ran it with a standard user and with admin rights; no persistence mechanism was added.
+Ran it with a standard user and with admin rights; the app responded normally.
+Ran it with a standard user and with admin rights; no hidden window appeared.
+Ran it with a standard user and with admin rights; the window closed cleanly.
+No DNS queries in the first a few minutes on a Windows 11 sandbox.
+No dropped files in the first a whole day on Windows 10 LTSC 2021.
+No dropped files in the first 20 minutes on Windows 11 23H2.
+No startup entries in the first 20 minutes on Windows 10 22H2.
+No Temp files in the first an hour on Windows 10 22H2.
+No services in the first a full afternoon on Windows 11 22H2.
+Re-ran it after a reboot on a Windows 10 VM; CPU usage stayed low.
+Re-ran it after a reboot on a Windows 11 sandbox; no log entry looked abnormal.
+Re-ran it after a reboot on Windows 11 24H2; no persistence mechanism was added.
+Re-ran it after a reboot on a clean Windows 11 VM; no unexpected writes outside its folder.
+Re-ran it after a reboot on a clean Windows 11 VM; no suspicious modules were loaded.
+Re-ran it after a reboot on a clean Windows 11 VM; no file was written to Temp.
+1/71 looks like a heuristic false positive; the heuristic is probably too broad.
+1/72 looks like a heuristic false positive; the same hash is clean on my side.
+1/70 looks like a heuristic false positive; the heuristic is probably too broad.
+1/71 looks like a heuristic false positive; the rule seems to match a common pattern.
+Only a single engine flags it; the flagged engine is often noisy on installers.
+Only that one heuristic flags it; the ratio is only 1/70.
+Only the flagged engine flags it; the flagged engine is often noisy on installers.
+Only one AV flags it; the ratio is only 1/70.
+Only only one vendor flags it; the rule seems to match a common pattern.
+The single detection seems inconsistent with the other engines; the ratio is only 1/70.
+The single detection seems inconsistent with the other engines; the signature looks generic.
+The single detection seems inconsistent with the other engines; the rule seems to match a common pattern.
+The single detection seems inconsistent with the other engines; the heuristic is probably too broad.
+The single detection seems inconsistent with the other engines; the detection is isolated.
+Detection ratio is 1/70; the sample behaves normally.
+Detection ratio is 1/68; the signature looks generic.
+Detection ratio is 1/71; the detection does not reproduce in a sandbox.
+Detection ratio is 1/68; the heuristic is probably too broad.
+Detection ratio is 1/70; the ratio is only 1/70.
+I would treat 1/68 as a false positive because the heuristic is probably too broad.
+I would treat one detection as a false positive because the heuristic is probably too broad.
+I would treat 1/68 as a false positive because the engine likely flagged a packer pattern.
+I would treat 1/70 as a false positive because the rule seems to match a common pattern.
+I would treat 1/72 as a false positive because the signature looks generic.
+the flagged engine flags it but the detection is isolated.
+one AV flags it but the detection does not reproduce in a sandbox.
+only one vendor flags it but the detection is isolated.
+the flagged engine flags it but the ratio is only 1/70.
+One detection out of 69 engines is easy to explain: the sample behaves normally.
+One detection out of 70 engines is easy to explain: the sample behaves normally.
+One detection out of 71 engines is easy to explain: the detection does not reproduce in a sandbox.
+One detection out of 70 engines is easy to explain: the rule seems to match a common pattern.
+One detection out of 71 engines is easy to explain: the ratio is only 1/70.
+The verdict looks like an isolated FP; the detection is isolated.
+The verdict looks like an isolated FP; the engine likely flagged a packer pattern.
+The verdict looks like an isolated FP; the heuristic is probably too broad.
+The verdict looks like an isolated FP; the sample behaves normally.
+With 1/71, this looks more like a noisy signature than a real threat.
+With 1/70, this looks more like a noisy signature than a real threat.
+With 1/69, this looks more like a noisy signature than a real threat.
+With 1/72, this looks more like a noisy signature than a real threat.
+The flagged detection does not match the behaviour I observed; the signature looks generic.
+The flagged detection does not match the behaviour I observed; the detection is isolated.
+The flagged detection does not match the behaviour I observed; the sample behaves normally.
+The flagged detection does not match the behaviour I observed; the detection does not reproduce in a sandbox.
+The flagged detection does not match the behaviour I observed; the heuristic is probably too broad.
+Looks like a classic single-engine FP; the detection is isolated.
+Looks like a classic single-engine FP; the ratio is only 1/70.
+Looks like a classic single-engine FP; the engine likely flagged a packer pattern.
+Looks like a classic single-engine FP; the same hash is clean on my side.
+I checked the file after the detection; the sample behaves normally.
+I checked the file after the detection; the ratio is only 1/70.
+I checked the file after the detection; the detection does not reproduce in a sandbox.
+I checked the file after the detection; the engine likely flagged a packer pattern.
+The detection may come from a generic heuristic; the engine likely flagged a packer pattern.
+The detection may come from a generic heuristic; the detection does not reproduce in a sandbox.
+The detection may come from a generic heuristic; the same hash is clean on my side.
+Nothing in the sandbox supports the single detection; the signature looks generic.
+Nothing in the sandbox supports the single detection; the engine likely flagged a packer pattern.
+Nothing in the sandbox supports the single detection; the sample behaves normally.
+Nothing in the sandbox supports the single detection; the flagged engine is often noisy on installers.
+Nothing in the sandbox supports the single detection; the ratio is only 1/70.
+Used it for a full afternoon; the app closed without hanging.
+Used it for 10 minutes; the memory footprint was stable.
+Used it for 20 minutes; no error dialog appeared.
+Used it for a few minutes; the process used little CPU.
+Used it for a few minutes; the memory footprint was stable.
+Used it for a full afternoon; the settings dialog opened fine.
+Launched it 3 times on a Windows 10 VM, the first launch was quick.
+Launched it 4 times on a clean Windows 11 VM, no error dialog appeared.
+Launched it 3 times on Windows 10 22H2, no error dialog appeared.
+Launched it 4 times on a clean Windows 11 VM, the app stayed responsive.
+Launched it 3 times on a Windows 10 VM, no error dialog appeared.
+Tested the main features for a couple of hours; the window resized normally.
+Tested the main features for 20 minutes; the memory footprint was stable.
+Tested the main features for 20 minutes; the process used little CPU.
+Tested the main features for a whole day; the window resized normally.
+Tested the main features for an hour; the settings dialog opened fine.
+Tested the main features for half an hour; the app recovered from focus changes.
+Opened and closed it several times on Windows Server 2022; the memory footprint was stable.
+Opened and closed it several times on Windows Server 2022; the main screen opened normally.
+Opened and closed it several times on Windows 11 22H2; no error dialog appeared.
+Opened and closed it several times on Windows Server 2022; the app stayed responsive.
+Opened and closed it several times on Windows 11 22H2; the main screen opened normally.
+Opened and closed it several times on Windows 11 24H2; the process used little CPU.
+Ran it for 20 minutes on Windows 11 24H2; the app recovered from focus changes.
+Ran it for a full afternoon on Windows 10 LTSC 2021; the memory footprint was stable.
+Ran it for an hour on a Windows 10 VM; the second launch was also clean.
+Ran it for 10 minutes on a Windows 10 VM; the app recovered from focus changes.
+Ran it for a couple of hours on Windows 11 24H2; the settings dialog opened fine.
+First launch on a Windows 11 sandbox: the settings dialog opened fine.
+First launch on Windows 10 22H2: the memory footprint was stable.
+First launch on Windows 11 22H2: the memory footprint was stable.
+First launch on Windows 11 22H2: the menus worked as expected.
+First launch on Windows 10 LTSC 2021: the first launch was quick.
+First launch on a clean Windows 11 VM: the first launch was quick.
+Second launch on Windows 11 23H2: the menus worked as expected.
+Second launch on Windows 11 22H2: the second launch was also clean.
+Second launch on Windows 11 22H2: the memory footprint was stable.
+Second launch on Windows 10 LTSC 2021: the main screen opened normally.
+Second launch on Windows 10 LTSC 2021: no error dialog appeared.
+Second launch on a Windows 10 VM: the settings dialog opened fine.
+Used it normally for half an hour, no error dialog appeared.
+Used it normally for a couple of hours, the main screen opened normally.
+Used it normally for an hour, the second launch was also clean.
+Used it normally for 20 minutes, the settings dialog opened fine.
+Used it normally for a couple of hours, the window resized normally.
+Used it normally for a full afternoon, the memory footprint was stable.
+Started it 5 times in a row, the process used little CPU.
+Started it 4 times in a row, the app recovered from focus changes.
+Started it 3 times in a row, the first launch was quick.
+Started it 4 times in a row, the app closed without hanging.
+Started it 2 times in a row, the process used little CPU.
+Left it open for a couple of hours on Windows 10 LTSC 2021; the memory footprint was stable.
+Left it open for a whole day on Windows 10 LTSC 2021; the second launch was also clean.
+Left it open for an hour on Windows 11 23H2; the window resized normally.
+Left it open for a full afternoon on Windows 10 22H2; the app stayed responsive.
+Left it open for a whole day on a Windows 10 VM; the app stayed responsive.
+Left it open for an hour on Windows 11 24H2; the settings dialog opened fine.
+Used it alongside other apps on a Windows 11 sandbox; the first launch was quick.
+Used it alongside other apps on a Windows 10 VM; the app recovered from focus changes.
+Used it alongside other apps on a Windows 10 VM; the process used little CPU.
+Used it alongside other apps on a Windows 11 sandbox; no error dialog appeared.
+Used it alongside other apps on Windows 11 24H2; the app stayed responsive.
+Used it alongside other apps on Windows 11 22H2; the app closed without hanging.
+Ran it after a fresh boot on Windows 10 LTSC 2021; the second launch was also clean.
+Ran it after a fresh boot on Windows 11 23H2; the app closed without hanging.
+Ran it after a fresh boot on Windows 11 23H2; no error dialog appeared.
+Ran it after a fresh boot on a clean Windows 11 VM; the app closed without hanging.
+Ran it after a fresh boot on a Windows 11 sandbox; the app closed without hanging.
+Ran it after a fresh boot on a Windows 11 sandbox; the memory footprint was stable.
+Ran it with a standard user profile; the app closed without hanging.
+Ran it with a standard user profile; the memory footprint was stable.
+Ran it with a standard user profile; no error dialog appeared.
+Ran it from a different working directory; the settings dialog opened fine.
+Ran it from a different working directory; the app stayed responsive.
+Ran it from a different working directory; the app closed without hanging.
+Ran it from a different working directory; the app recovered from focus changes.
+Ran it from a different working directory; the window resized normally.
+Tested it for half an hour and then rebooted; the process used little CPU.
+Tested it for 20 minutes and then rebooted; the window resized normally.
+Tested it for 20 minutes and then rebooted; the main screen opened normally.
+Tested it for a full afternoon and then rebooted; the main screen opened normally.
+Tested it for a couple of hours and then rebooted; the memory footprint was stable.
+Ran it with the network disabled; the menus worked as expected.
+Ran it with the network disabled; no error dialog appeared.
+Ran it with the network disabled; the app stayed responsive.
+Ran it with the network disabled; the main screen opened normally.
+Static review: the PE layout looks conventional.
+Static review: the overlay looks small and normal.
+Static review: no packed sections were obvious.
+Static review: the entry point looks typical for this kind of build.
+Quick PE review: the resources look ordinary.
+Quick PE review: the imports look normal for a desktop app.
+Quick PE review: the strings are consistent with a test app.
+Quick PE review: the entry point looks typical for this kind of build.
+Nothing unusual in the headers: the PE layout looks conventional.
+Nothing unusual in the headers: no packed sections were obvious.
+Nothing unusual in the headers: the entry point looks typical for this kind of build.
+Checked the sections and imports: no unusually high entropy section was noticed.
+Checked the sections and imports: the overlay looks small and normal.
+Checked the sections and imports: the imports look normal for a desktop app.
+No obvious packing: the strings are consistent with a test app.
+No obvious packing: no unusually high entropy section was noticed.
+No obvious packing: no packed sections were obvious.
+No obvious packing: the imports look normal for a desktop app.
+The binary looks ordinary: the section layout looks standard.
+The binary looks ordinary: the PE layout looks conventional.
+The binary looks ordinary: no unusually high entropy section was noticed.
+The binary looks ordinary: the resources look ordinary.
+Strings review: the section layout looks standard.
+Strings review: the PE layout looks conventional.
+Strings review: the overlay looks small and normal.
+Resource review: no packed sections were obvious.
+Resource review: the resources look ordinary.
+Resource review: the strings are consistent with a test app.
+Resource review: no unusually high entropy section was noticed.
+Entry point and imports: the imports look normal for a desktop app.
+Entry point and imports: the entry point looks typical for this kind of build.
+Entry point and imports: the section layout looks standard.
+Entry point and imports: the strings are consistent with a test app.
+No high-entropy section stood out; no packed sections were obvious.
+No high-entropy section stood out; the PE layout looks conventional.
+No high-entropy section stood out; the imports look normal for a desktop app.
+The overlay is small and looks normal; the strings are consistent with a test app.
+The overlay is small and looks normal; the overlay looks small and normal.
+The overlay is small and looks normal; the imports look normal for a desktop app.
+The import table is consistent with a desktop app; the entry point looks typical for this kind of build.
+The import table is consistent with a desktop app; the overlay looks small and normal.
+The import table is consistent with a desktop app; the resources look ordinary.
+The import table is consistent with a desktop app; the strings are consistent with a test app.
+No suspicious URL strings; the section layout looks standard.
+No suspicious URL strings; the imports look normal for a desktop app.
+No suspicious URL strings; the entry point looks typical for this kind of build.
+No suspicious URL strings; no suspicious URL strings stood out.
+The PE layout looks standard; the resources look ordinary.
+The PE layout looks standard; no unusually high entropy section was noticed.
+Static and dynamic checks agree: no suspicious URL strings stood out.
+Static and dynamic checks agree: the section layout looks standard.
+Static and dynamic checks agree: the resources look ordinary.
+Static and dynamic checks agree: the PE layout looks conventional.
+Testé sur {os} pendant {duration}, aucune activité réseau après le démarrage.
+Exécuté dans {tool} sur {os}, aucun accès élevé demandé.
+Lancé sur {os} pendant {duration}, l'interface s'ouvre normalement.
+Lancé sur {os} pendant {duration}, aucun comportement suspect.
+Testé sur {os} pendant {duration} : aucun comportement suspect.
+Lancé sur {os} pendant {duration} : la consommation CPU reste faible.
+Exécuté dans {tool} sur {os} : aucune activité réseau après le démarrage.
+Testé sur {os} pendant {duration} : aucun accès élevé demandé.
+Essayé sur {os} pendant {duration} et l'interface s'ouvre normalement.
+Vérifié avec {tool} sur {os} et aucun comportement suspect.

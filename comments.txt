@@ -1,0 +1,14 @@
+# One comment per line. One line is picked at random for each account.
+# Replace these with your own pre-written messages if you want.
+Ran it on a clean Windows 11 VM, no suspicious behaviour observed.
+Single detection looks like a false positive; the rest of the engines are clean.
+Tested on Windows 10 22H2, the app starts and runs normally.
+No persistence, no dropped files and no outbound C2 traffic during my test.
+Looks like a legitimate desktop test build. Harmless from my side.
+Only one engine flags it and the signature looks generic. Likely a false positive.
+Installed and executed without issues. No unusual network activity.
+The file is fairly large but behaves as expected in a sandbox.
+No packed sections or suspicious imports noticed on a quick review.
+Used it for a few hours, no crashes and nothing suspicious in ProcMon.
+Detection ratio is 1/70, and the flagged engine looks inconsistent.
+Clean in my environment; I would treat this as harmless.
